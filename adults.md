@@ -2,5 +2,4 @@
 - dress
 - socks
 - cheers points
-- travel voucher
 - watch
