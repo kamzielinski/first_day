@@ -1,0 +1,3 @@
+- barby doll
+- teddy bear
+- handy
