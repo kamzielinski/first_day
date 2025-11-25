@@ -1,5 +1,0 @@
-- dress
-- diamond ring
-- lego bricks
-- candy
-- watch
