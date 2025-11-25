@@ -1,0 +1,4 @@
+- barby doll
+- teddy bear
+- handy
+- karaoke machine
