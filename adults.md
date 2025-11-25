@@ -1,7 +1,6 @@
 - flowers
 - dress
 - socks
-- diamond ring
 - cheers points
 - travel voucher
 - candy
