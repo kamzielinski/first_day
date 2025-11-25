@@ -3,3 +3,4 @@
 - bike
 - shoes
 - video games
+- teddy bear
