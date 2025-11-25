@@ -3,3 +3,5 @@
 - cheers points
 - lego bricks
 - travel voucher
+- candy
+- watch
