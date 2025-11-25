@@ -3,5 +3,4 @@
 - socks
 - cheers points
 - travel voucher
-- candy
 - watch
